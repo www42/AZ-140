@@ -12,6 +12,11 @@ Learning Path 04 [Manage user environments and apps for Azure Virtual Desktop](h
 
 Learning Path 05 [Monitor and maintain an Azure Virtual Desktop infrastructure](https://learn.microsoft.com/en-us/training/paths/monitor-maintain-azure-virtual-desktop-infrastructure/)
 
+---
+
+[Get the presentation](pdf)
+
+
 
 # Labs
 
