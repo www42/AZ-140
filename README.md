@@ -37,6 +37,10 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 
 [Microsoft Training and Certification](https://aka.ms/traincertposter) Poster
 
+[Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
+
+[Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
+
 
 
 
