@@ -2,6 +2,8 @@
 
 # Microsoft Learn
 
+## [Landing Page](https://aka.ms/AZ-140StudentMaterials)
+
 Learning Path 01 [Plan an Azure Virtual Desktop implementation](https://learn.microsoft.com/en-us/training/paths/plan-azure-virtual-desktop-implementation/)
 
 Learning Path 02 [Implement an Azure Virtual Desktop infrastructure](https://learn.microsoft.com/en-us/training/paths/implement-azure-virtual-infrastructure/)
@@ -14,7 +16,6 @@ Learning Path 05 [Monitor and maintain an Azure Virtual Desktop infrastructure](
 
 ---
 
-[Get the presentation](pdf)
 
 
 
@@ -33,9 +34,9 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 
 [Microsoft Learn](https://learn.microsoft.com)
 
-[Microsoft Learn FAQ](https://learn.microsoft.com/en-us/training/support/faq?pivots=general)
+[Microsoft Training and Certification Poster](https://aka.ms/traincertposter)
 
-[Microsoft Training and Certification](https://aka.ms/traincertposter) Poster
+[Microsoft Learn FAQ](https://learn.microsoft.com/en-us/training/support/faq?pivots=general)
 
 [Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
 
