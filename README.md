@@ -21,6 +21,9 @@ Learning Path 05 [Monitor and maintain an Azure Virtual Desktop infrastructure](
 
 # Labs
 
+
+[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
+
 [AZ-140 Microsoft Learn Repository on GitHub](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop)
 
 [AZ-140 Lab Instructions Step-by-Step](https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/)
