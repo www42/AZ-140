@@ -1,5 +1,11 @@
 # AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop
 
+---
+
+[Get the presentation](pdf)
+
+---
+
 # Microsoft Learn
 
 ## [Landing Page](https://aka.ms/AZ-140StudentMaterials)
