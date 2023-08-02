@@ -39,6 +39,13 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 * Azure AD DS
 
 
+## Mittwoch
+
+[FSLogix](https://learn.microsoft.com/en-us/fslogix/)
+
+[FSLogix - Cloud Cache](https://learn.microsoft.com/en-us/fslogix/concepts-fslogix-cloud-cache)
+
+
 ## Montag
 
 [Igel OS](https://www.igel.com/)
