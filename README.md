@@ -2,7 +2,11 @@
 
 ---
 
-[Get the presentation](pdf)
+[Give Feedback - brainymotion only!](https://www.metricsthatmatter.com/url/u.aspx?E10282BED200337327)
+
+[Claim your badge!](https://learn.microsoft.com/users/me/achievements?redeem=52PJ8D&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
+[Get the presentation!](pdf)
 
 ---
 
