@@ -39,6 +39,11 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 * Azure AD DS
 
 
+## Donnerstag
+
+[MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+
+
 ## Mittwoch
 
 [FSLogix](https://learn.microsoft.com/en-us/fslogix/)
