@@ -54,7 +54,6 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 
 ## Mittwoch
 
-[FSLogix](https://learn.microsoft.com/en-us/fslogix/)
 
 [FSLogix - Cloud Cache](https://learn.microsoft.com/en-us/fslogix/concepts-fslogix-cloud-cache)
 
@@ -62,6 +61,13 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 ## Montag
 
 [Igel OS](https://www.igel.com/)
+
+
+## Microsoft Docs (Learn)
+
+[Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/) -
+[FSLogix](https://learn.microsoft.com/en-us/fslogix/) -
+[Bicep](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) -
 
 
 ## Useful links
@@ -72,7 +78,6 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 
 [Microsoft Learn FAQ](https://learn.microsoft.com/en-us/training/support/faq?pivots=general)
 
-[Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
 
 [Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
 
