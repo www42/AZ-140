@@ -39,20 +39,6 @@ Be careful: The labs comprise two separate tracks, depending on the identity pro
 * Azure AD DS
 
 
-## Donnerstag
-
-[MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
-
-
-## Mittwoch
-
-
-[FSLogix - Cloud Cache](https://learn.microsoft.com/en-us/fslogix/concepts-fslogix-cloud-cache)
-
-
-## Montag
-
-[Igel OS](https://www.igel.com/)
 
 
 ## Microsoft Docs (Learn)
