@@ -36,7 +36,7 @@ Learning Path 05 [Monitor and maintain an Azure Virtual Desktop infrastructure](
 
 Be careful: The labs comprise two separate tracks, depending on the identity provider you decide to use
 * AD DS
-* Azure AD DS
+* Microsoft Entra DS
 
 
 
