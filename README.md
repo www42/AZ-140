@@ -1,5 +1,8 @@
 # AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop
 
+
+[Wichtige Änderung bei Pooled Host Pools in AVD](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
+
 ---
 
 [Exam Preparation! Take a free assessment at Microsoft Learn](https://learn.microsoft.com/certifications/exams/az-140/practice/assessment?assessment-type=practice&assessmentId=69)
