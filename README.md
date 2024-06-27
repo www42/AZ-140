@@ -1,5 +1,11 @@
 # AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop
 
+[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?AE8FE33D3211600507)
+
+[Claim your Badges!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=VX2KKX)
+
+
+---
 
 [Wichtige Änderung bei Pooled Host Pools in AVD](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
 
