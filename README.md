@@ -64,6 +64,9 @@
 
 [Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
 
+<br>
+
+
 
 
 ## Useful links
@@ -80,7 +83,7 @@
 
 [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) 
 
-
+<br>
 
 
 
