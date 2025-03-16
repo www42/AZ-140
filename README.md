@@ -1,8 +1,55 @@
+
+[LP1]: https://learn.microsoft.com/en-us/training/paths/plan-azure-virtual-desktop-implementation/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/implement-azure-virtual-infrastructure/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/manage-access-security/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/manage-user-environments-apps/
+[LP5]: https://learn.microsoft.com/en-us/training/paths/monitor-maintain-azure-virtual-desktop-infrastructure/
+
+
 # AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop
 
-[Give Feedback!](https://www.metricsthatmatter.com/url/u.aspx?AE8FE33D3211600507)
+## Learning Paths
 
-[Claim your Badges!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=VX2KKX)
+- Learning Path 1 [Plan an Azure Virtual Desktop implementation][LP1]
+- Learning Path 2 [Implement an Azure Virtual Desktop infrastructure][LP2]
+- Learning Path 3 [Manage access and security for Azure Virtual Desktop][LP3]
+- Learning Path 4 [Manage user environments and apps for Azure Virtual Desktop][LP4]
+- Learning Path 5 [Monitor and maintain an Azure Virtual Desktop infrastructure][LP5]
+
+<br>
+
+## Labs
+
+[Lab environment Skillable](https://brainymotion.learnondemand.net) 
+
+1. Sign in with your Skillable account 
+2. Register with Training Key
+
+<!--[Go Deploy](https://lms.godeploy.it) -->
+
+
+<br>
+
+## Certification 
+
+|   |   |
+| - | - |
+|<img src="https://download69118.blob.core.windows.net/anon/microsoft-certified-specialty-badge.svg" width="100"/>|[Microsoft Certified: Azure Virtual Desktop Specialty](https://learn.microsoft.com/en-us/credentials/certifications/azure-virtual-desktop-specialty/)|
+
+
+[Practice assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-virtual-desktop-specialty/practice/assessment?assessment-type=practice&assessmentId=69&practice-assessment-type=certification)
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 ---
@@ -10,43 +57,6 @@
 [Wichtige Änderung bei Pooled Host Pools in AVD](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
 
 ---
-
-[Exam Preparation! Take a free assessment at Microsoft Learn](https://learn.microsoft.com/certifications/exams/az-140/practice/assessment?assessment-type=practice&assessmentId=69)
-
-
-
-# Microsoft Learn
-
-## [Landing Page](https://aka.ms/AZ-140StudentMaterials)
-
-Learning Path 01 [Plan an Azure Virtual Desktop implementation](https://learn.microsoft.com/en-us/training/paths/plan-azure-virtual-desktop-implementation/)
-
-Learning Path 02 [Implement an Azure Virtual Desktop infrastructure](https://learn.microsoft.com/en-us/training/paths/implement-azure-virtual-infrastructure/)
-
-Learning Path 03 [Manage access and security for Azure Virtual Desktop](https://learn.microsoft.com/en-us/training/paths/manage-access-security/)
-
-Learning Path 04 [Manage user environments and apps for Azure Virtual Desktop](https://learn.microsoft.com/en-us/training/paths/manage-user-environments-apps/)
-
-Learning Path 05 [Monitor and maintain an Azure Virtual Desktop infrastructure](https://learn.microsoft.com/en-us/training/paths/monitor-maintain-azure-virtual-desktop-infrastructure/)
-
----
-
-
-
-
-# Labs
-
-
-[Skillable (Learn on Demand)](https://brainymotion.learnondemand.net) (Register with Training Key)
-
-[AZ-140 Microsoft Learn Repository on GitHub](https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop)
-
-[AZ-140 Lab Instructions Step-by-Step](https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/)
-
-Be careful: The labs comprise two separate tracks, depending on the identity provider you decide to use
-* AD DS
-* Microsoft Entra DS
-
 
 
 
