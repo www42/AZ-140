@@ -1,4 +1,3 @@
-
 [LP1]: https://learn.microsoft.com/en-us/training/paths/plan-azure-virtual-desktop-implementation/
 [LP2]: https://learn.microsoft.com/en-us/training/paths/implement-azure-virtual-infrastructure/
 [LP3]: https://learn.microsoft.com/en-us/training/paths/manage-access-security/
@@ -62,7 +61,6 @@
 
 [AI Skills Navigator](https://aiskillsnavigator.microsoft.com/en-us)
 
-[Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
 
 <br>
 
@@ -76,6 +74,7 @@
 [Wichtige Änderung bei Pooled Host Pools in AVD](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
 
 ---
+[Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
 
 [Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
 
