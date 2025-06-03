@@ -26,6 +26,8 @@
 
 <!--[Go Deploy](https://lms.godeploy.it) -->
 
+[Labs Step-by-step (Microsoft Learn)](https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/)
+
 
 <br>
 
