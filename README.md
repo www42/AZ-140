@@ -7,6 +7,13 @@
 
 # AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop
 
+
+<!--
+## Seminar 15. - 18. Dezember 2025
+
+[Get the presentation](pdf/)
+-->
+
 ## Learning Paths
 
 - Learning Path 1 [Plan an Azure Virtual Desktop implementation][LP1]
@@ -19,15 +26,32 @@
 
 ## Labs
 
+<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
+-->
 
-<!--[Go Deploy](https://lms.godeploy.it) -->
+[Go Deploy](https://lms.godeploy.it)
 
 [Labs Step-by-step (Microsoft Learn)](https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/)
 
+[Lab1]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/01_LAB_14_01_Deploy_host_pools_and_session_hosts_with_Entra_ID_Azure_portal.html
+[Lab2]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/02_LAB_32_01_Manage_host_pools_and_session_hosts_with_Entra_ID_Azure_portal.html
+[Lab3]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/03_LAB_41_01_Implement_monitoring_by_using_Azure_Virtual_Desktop_Insights.html
+[Lab4]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/04_LAB_32_02_Connect_to_host_pools_and_session_hosts_with_Entra_ID.html
+[Lab5]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/05_LAB_41_02_Implement_autoscaling_of_session_hosts.html
+[Lab6]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/06_LAB_11_01_Implement_Azure_Private_Link_for_Azure_Virtual_Desktop.html
+[Lab7]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/07_LAB_15_01_Create_custom_session_host_images_by_using_image_templates_StandAlone.html
+
+[Lab 1 Deploy host pools and session hosts by using the Azure portal (Entra ID)][Lab1]
+[Lab 2 Manage host pools and session hosts by using the Azure portal (Entra ID)][Lab2]
+[Lab 3 Implement monitoring by using Azure Virtual Desktop Insights][Lab3]
+[Lab 4 Connect to session hosts (Entra ID)][Lab4]
+[Lab 5 Implement and monitor autoscaling of session hosts][Lab5]
+[Lab 6 Implement Azure Private Link for Azure Virtual Desktop][Lab6]
+[Lab 7 Create custom session host images by using image templates][Lab7]
 
 <br>
 
