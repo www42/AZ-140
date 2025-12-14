@@ -5,7 +5,7 @@
 [LP5]: https://learn.microsoft.com/en-us/training/paths/monitor-maintain-azure-virtual-desktop-infrastructure/
 
 
-# AZ-140 Configuring and Operating Microsoft Azure Virtual Desktop
+# AZ-140 Configure and Operate Microsoft Azure Virtual Desktop
 
 
 <!--
@@ -146,4 +146,4 @@
 
 ---
 
-[Top](#az-140-configuring-and-operating-microsoft-azure-virtual-desktop)
+[Top](#az-140-configure-and-operate-microsoft-azure-virtual-desktop)
