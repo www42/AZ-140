@@ -24,7 +24,7 @@
 
 <br>
 
-## Labs
+## Lab Environment
 
 <!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
@@ -35,7 +35,7 @@
 
 [Go Deploy](https://lms.godeploy.it)
 
-[Labs Step-by-step (Microsoft Learn)](https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/)
+## Labs Step-by-step (Microsoft Learn) -- Optional
 
 [Lab1]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/01_LAB_14_01_Deploy_host_pools_and_session_hosts_with_Entra_ID_Azure_portal.html
 [Lab2]: https://microsoftlearning.github.io/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop/Instructions/Labs_EntraID/02_LAB_32_01_Manage_host_pools_and_session_hosts_with_Entra_ID_Azure_portal.html
