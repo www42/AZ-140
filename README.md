@@ -76,6 +76,18 @@
 <br>
 
 
+## Offene Fragen (und Antworten)
+
+### How to deploy AVD via Azure REST API
+
+[REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
+
+[Azure REST API reference documentation](https://learn.microsoft.com/en-us/rest/api/azure/)
+
+
+<br>
+
+<br>
 
 ## Microsoft Learn
 
@@ -102,9 +114,9 @@
 [Wichtige Änderung bei Pooled Host Pools in AVD](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
 
 ---
-[Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
-
 [Azure Virtual Desktop documentation](https://learn.microsoft.com/en-us/azure/virtual-desktop/)
+
+[Azure Virtual Desktop terminology](https://learn.microsoft.com/en-us/azure/virtual-desktop/terminology)
 
 [FSLogix documentation](https://learn.microsoft.com/en-us/fslogix/)
 
