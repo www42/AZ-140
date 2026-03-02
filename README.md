@@ -9,7 +9,7 @@
 
 
 <!--
-## Seminar 15. - 18. Dezember 2025
+## Seminar 02. - 05. März 2025
 
 [Get the presentation](pdf/)
 -->
@@ -26,14 +26,15 @@
 
 ## Lab Environment
 
-<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
--->
 
+<!--
 [Go Deploy](https://lms.godeploy.it)
+-->
+<br>
 
 ## Labs step-by-step (Microsoft Learn) - Optional
 
@@ -75,17 +76,6 @@
 
 <br>
 
-
-## Offene Fragen (und Antworten)
-
-### How to deploy AVD via Azure REST API
-
-[REST API Browser](https://learn.microsoft.com/en-us/rest/api/?view=Azure)
-
-[Azure REST API reference documentation](https://learn.microsoft.com/en-us/rest/api/azure/)
-
-
-<br>
 
 <br>
 
