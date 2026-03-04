@@ -112,6 +112,14 @@
 
 [Bicep documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/) 
 
+[Microsoft.DesktopVirtualization/hostPoolsnARM template reference](https://learn.microsoft.com/en-us/azure/templates/microsoft.desktopvirtualization/hostpools?pivots=deployment-language-bicep)
+
+[Ephemeral OS disks on Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/deploy/session-hosts/ephemeral-os-disks?wt.mc_id=fulltextsearch_inproduct_azure-portal-global-search&tabs=portal)
+
+[Microsoft Entra Cloud Sync deep dive - how it works](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/concept-how-it-works)
+
+[The Next Chapter of Microsoft Teams in Virtualized Environments](https://techcommunity.microsoft.com/blog/microsoftteamsblog/the-next-chapter-of-microsoft-teams-in-virtualized-environments/4498259)
+
 <br>
 
 
