@@ -120,6 +120,10 @@
 
 [The Next Chapter of Microsoft Teams in Virtualized Environments](https://techcommunity.microsoft.com/blog/microsoftteamsblog/the-next-chapter-of-microsoft-teams-in-virtualized-environments/4498259)
 
+[Built-in Azure RBAC roles Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/rbac)
+
+[Azure Monitor tables for microsoft.desktopvirtualization/applicationgroups](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/microsoft-desktopvirtualization_applicationgroups)
+
 <br>
 
 
