@@ -101,6 +101,8 @@
 
 ## Useful links
 
+[Microsoft Build, June 2-3, 2026 / San Francisco and online](https://build.microsoft.com/en-US/home)
+
 ---
 
 [Wichtige Änderung bei Pooled Host Pools in AVD](https://learn.microsoft.com/en-us/azure/virtual-desktop/preferred-application-group-type)
@@ -125,6 +127,14 @@
 [Built-in Azure RBAC roles Azure Virtual Desktop](https://learn.microsoft.com/en-us/azure/virtual-desktop/rbac)
 
 [Azure Monitor tables for microsoft.desktopvirtualization/applicationgroups](https://learn.microsoft.com/en-us/azure/azure-monitor/reference/tables/microsoft-desktopvirtualization_applicationgroups)
+
+[Store FSLogix profile containers on Azure Files using Microsoft Entra ID](https://learn.microsoft.com/en-us/fslogix/how-to-configure-profile-container-entra-id-hybrid?pivots=hybrid-identities)
+
+---
+
+[Configure Windows ACLs by using the Azure portal](https://aka.ms/portal/fileperms)
+
+---
 
 <br>
 
