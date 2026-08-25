@@ -101,7 +101,7 @@
 
 ## Useful links
 
-[Microsoft Build, June 2-3, 2026 / San Francisco and online](https://build.microsoft.com/en-US/home)
+[Microsoft Ignite, Nove 17-20](https://ignite.microsoft.com/en-US/home)
 
 ---
 
