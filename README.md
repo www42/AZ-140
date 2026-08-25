@@ -8,10 +8,10 @@
 # AZ-140 Configure and Operate Microsoft Azure Virtual Desktop
 
 
-<!--
-## Seminar 09. - 12. März 2025
+## Seminar 24. - 27. August 2026 ETC Wien
 
 [Get the presentation](pdf/)
+<!--
 -->
 
 ## Learning Paths
