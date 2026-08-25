@@ -103,7 +103,7 @@
 
 ## Useful links
 
-[Microsoft Ignite, Nove 17-20](https://ignite.microsoft.com/en-US/home)
+[Microsoft Ignite, November 17-20](https://ignite.microsoft.com/en-US/home)
 
 ---
 
