@@ -14,7 +14,7 @@
 
 [Grab your badge (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=GXYL3P&WT.mc_id=ilt_partner_webpage_wwl&ocid=518047)
 
-Give Feedback [ETC (Seminarnummer 155548)](https://feedback.etc.at) &nbsp; [IntelliLearn](https://www.metricsthatmatter.com/url/u.aspx?8B6717E44239596740)
+Give Feedback [ETC (Seminarnummer 155548)](https://feedback.etc.at) &nbsp; &nbsp; [IntelliLearn](https://www.metricsthatmatter.com/url/u.aspx?8B6717E44239596740)
 
 <br>
 <!--
