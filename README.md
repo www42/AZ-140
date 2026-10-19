@@ -8,16 +8,16 @@
 # AZ-140 Configure and Operate Microsoft Azure Virtual Desktop
 
 
-## Seminar 24. - 27. August 2026 ETC Wien
+<!--
+## Seminar 19. - 22. Oktober 2026
 
 [Get the presentation](pdf/)
 
-[Grab your badge (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=GXYL3P&WT.mc_id=ilt_partner_webpage_wwl&ocid=518047)
+[Grab your badge (Microsoft Learn)](https://)
 
-Give Feedback [ETC (Seminarnummer 155548)](https://feedback.etc.at) &nbsp; &nbsp; [IntelliLearn](https://www.metricsthatmatter.com/url/u.aspx?8B6717E44239596740)
+[Give Feedback](https://)
 
 <br>
-<!--
 -->
 
 ## Learning Paths
