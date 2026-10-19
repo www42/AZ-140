@@ -13,7 +13,7 @@
 
 [Get the presentation](pdf/)
 
-[Grab your badge (Microsoft Learn)](https://)
+[Grab your badge (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=575357&redeem=YZND7V)
 
 [Give Feedback](https://)
 
